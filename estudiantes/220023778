@@ -1,0 +1,311 @@
+
+<!doctype html>
+<html lang="es">
+
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Universidad Autónoma Gabriel René Moreno</title>
+
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Universidad Autónoma Gabriel René Moreno">
+    <meta property="og:description" content="Portal Web de la Universidad Autónoma Gabriel René Moreno">
+    <meta property="og:url" content="https://www.uagrm.edu.bo/validar/2a69d02274d0398a00fef92f04e7038a2ad951d6ec4f2a4ff61a00497632fb7b">
+    <meta property="og:site_name" content="Universidad Autónoma Gabriel René Moreno" />
+    <meta property="og:image" content="https://www.uagrm.edu.bo/img/android-chrome-512x512.png">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+    <meta property="og:locale" content="es_ES" />
+
+    
+    <meta name="robots" content="Index, Follow">
+    <meta name="description" content="Portal Web de la Universidad Autónoma Gabriel René Moreno">
+    <meta name="author" content="Universidad Autónoma Gabriel René Moreno">
+
+    
+    <meta name="keywords" content="UAGRM, Universidad, Santa Cruz, Bolivia">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.uagrm.edu.bo/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.uagrm.edu.bo/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.uagrm.edu.bo/img/favicon-16x16.png">
+    <link rel="manifest" href="https://www.uagrm.edu.bo/img/site.webmanifest">
+    <link rel="mask-icon" href="https://www.uagrm.edu.bo/img/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+
+    
+            <link rel="stylesheet" href="https://www.uagrm.edu.bo/css/app.min.css">
+    
+    
+    
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19978888-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-19978888-2');
+        </script>
+    
+    <script>
+        function url(location) {
+            return "https://www.uagrm.edu.bo" + "/" + location;
+        }
+    </script>
+
+    
+    <meta name="theme-color" content="#800">
+
+    
+            <script src="https://www.uagrm.edu.bo/js/app.min.js"></script>
+    
+    </head>
+
+    <body>
+
+        
+        <ul class="nav justify-content-end" style="background-color: #2a3964;border-bottom: 1px solid #2C313D;">
+    <li class="nav-item">
+        <a href="https://www.uagrm.edu.bo/udigital" class="btn btn-warning btn-sm mt-1 me-2"><i class="icon-wifi"></i> U-Digital</a>
+    </li>
+    <li class="nav-item py-2">
+        <span class="text-white fs-6">|</span>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link link-light fs-6" href="https://www.uagrm.edu.bo/udigital/faq">FAQ</a>
+    </li>
+    <li class="nav-item py-2">
+        <span class="text-white fs-6">|</span>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link link-light fs-6" href="https://perfil.uagrm.edu.bo" target="_blank">Perfil</a>
+    </li>
+    <li class="nav-item py-2">
+        <span class="text-white fs-6">|</span>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link link-light fs-6" href="http://mail.uagrm.edu.bo" target="_blank">Webmail</a>
+    </li>
+</ul>
+<div class="d-block" style="background-color: #880000; border-top: 1px solid #9a0000; border-bottom: 1px solid #670000;">
+    <div class="d-none d-lg-block mx-auto col-lg-6">
+        <div class="d-flex justify-content-center">
+            <div class="container-fluid py-3 d-flex align-items-center">
+                
+                <a href="https://www.uagrm.edu.bo">
+                    <img src="https://www.uagrm.edu.bo/img/logo-88x707.png" class="img-fluid" alt="Universidad Aut&oa&oacute;noma Gabriel Ren&eacute; Moreno">
+                </a>
+            </div>
+            
+                    </div>
+    </div>
+</div>
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #880000; border-top: 1px solid #9a0000;">
+    <div class="container-fluid">
+
+        <a class="navbar-brand d-lg-none" href="https://www.uagrm.edu.bo">
+            <img src="https://www.uagrm.edu.bo/img/logo-88x707.png" class="mx-auto" style="height: 4vh; min-height: 1.2em" alt="Universidad Aut&oa&oacute;noma Gabriel Ren&eacute; Moreno">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" class="nav-link" href="https://www.uagrm.edu.bo"><i class="icon-home"></i></a>
+                </li>
+
+                                                            <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="academia" role="button" data-bs-toggle="dropdown" aria-expanded="false">Academia</a>
+        <ul class="dropdown-menu" aria-labelledby="academia">
+                                <a class="dropdown-item" href="https://www.uagrm.edu.bo/doc/13645" >Calendario 2024</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/admisiones" >Admisiones</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/facultades" >Facultades</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/postgrados" >Postgrados</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/perii" >PERii</a>
+                                            <a class="dropdown-item" href="https://bibliotecas.uagrm.edu.bo" target=&quot;_blank&quot;>Bibliotecas</a>
+                                            <a class="dropdown-item" href="https://inscripcion.uagrm.edu.bo/" target=&quot;_blank&quot;>Inscripciones</a>
+                            </ul>
+    </li>
+                                                                                <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="institucion" role="button" data-bs-toggle="dropdown" aria-expanded="false">Institución</a>
+        <ul class="dropdown-menu" aria-labelledby="institucion">
+                                <a class="dropdown-item" href="https://www.uagrm.edu.bo/cogobierno/icu" >ICU</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/unidades-administrativas/rectorado" >Rectorado</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/unidades-administrativas/vicerrectorado" >Vicerrectorado</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/organos-especiales" >Órganos especiales</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/institutos-centros" >Institutos &amp; Centros</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/unidades-administrativas" >Unidades administrativas</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/federaciones" >Federaciones</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/institutos-centros/museo-de-historia" >Museo de Historia</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/la-universidad" >La universidad</a>
+                                            <a class="dropdown-item" href="https://www.uagrm.edu.bo/gaceta" >Gaceta</a>
+                            </ul>
+    </li>
+                                                                                <li class="nav-item">
+        <a class="nav-link" href="https://www.uagrm.edu.bo/unidades-administrativas/dicit" >Investigación DICiT</a>
+    </li>
+                                                                                <li class="nav-item">
+        <a class="nav-link" href="https://www.uagrm.edu.bo/contacto" >Contacto</a>
+    </li>
+                                                                                <li class="nav-item">
+        <a class="nav-link" href="https://www.uagrm.edu.bo/aulas-virtuales" >Aulas Virtuales</a>
+    </li>
+                                                                                <li class="nav-item">
+        <a class="nav-link" href="https://www.uagrm.edu.bo/unidades-administrativas/rpni" >Relaciones Públicas</a>
+    </li>
+                                                                                    </ul>
+            <form class="d-flex" action="https://www.uagrm.edu.bo/buscar">
+                <input class="form-control me-2" name="keyword" type="search" placeholder="Buscar" aria-label="Buscar" value="">
+                <button class="btn btn-success" type="submit"><i class="icon-search"></i></button>
+            </form>
+        </div>
+    </div>
+</nav>
+        <main>
+            
+                
+    <div itemscope itemtype="http://schema.org/WebPage" class="container mt-4" style="margin: auto;width: 50%;padding: 10px;">
+
+                    
+            <div class="row mb-4">
+                <div class="col-12" style="text-align: center;">
+                    <h1 itemprop="name" class="title__text">CREDENCIAL</h1>
+                    <p itemprop="description" class="title__description">CREDENCIAL DE ESTUDIANTE DE LA FICCT</p>
+                </div>
+            </div>
+
+            
+            <div class="row">
+                <div class="col">
+                    <img src="data:image/jpg;base64,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" />
+                </div>
+                <div class="col">
+                    <div itemprop="mainContentOfPage">
+                        <p><b>REGISTRO:</b> 220023778</p>
+                        <p><b>FACULTAD:</b> FACULTAD DE INGENIERIA EN CIENCIAS DE LA COMPUTACION Y TELECOMUNICACIONES</p>
+                        <p><b>CARRERA:</b> INGENIERÍA DE SISTEMAS</p>
+                        <p><b>ESTUDIANTE:</b> Daniel Suárez Suárez</p>
+                        <p><b>TELEFONO:</b> </p>
+                        <p><b>DOCUMENTO DE IDENTIDAD:</b>  SCZ</p>
+                        <p><b>FECHA DE EMISIÓN:</b> 23/10/2023</p>
+                    </div>
+                </div>
+            </div>
+        
+        <hr>
+    </div>
+            <a class="go-to-top" href="#"><i class="icon-angle-up"></i></a>
+
+<div class="footer">
+    <div class="container">
+        <div class="row py-4">
+            <div class="col">
+                <h3 class="text__2 d-sm-inline-block text-uppercase">Conéctate: </h3>
+                <span>
+                    <a class="footer__social-link mx-4 text-decoration-none" href="https://www.facebook.com/uagrmrectorado" target="_blank"><i class="icon-facebook" aria-hidden="true"></i></a>
+                    
+                    <a class="footer__social-link mx-4 text-decoration-none" href="https://www.youtube.com/channel/UCCao-a43oQpxo1gp2hFFjLg" target="_blank"><i class="icon-youtube" aria-hidden="true"></i></a>
+                    <a class="footer__social-link mx-4 text-decoration-none" href="https://www.instagram.com/uagrm.oficial/" target="_blank"><i class="icon-instagram" aria-hidden="true"></i></a>
+                </span>
+            </div>
+        </div>
+
+        <div class="row">
+                    </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <hr class="footer__divider">
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="font-size: 0.8rem;line-height: 1.5;">
+        <div class="row py-3 text-center">
+            <div class="col-sm-3 my-auto">
+                <span class="align-middle">© 2025 Universidad Autónoma Gabriel René Moreno</span>
+            </div>
+            <div class="col-sm-6 my-auto border-left border-right">
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo">Inicio</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/admisiones">Admisiones</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/facultades">Facultades</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/carreras">Carreras</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/unidades-administrativas">Unidades Administrativas</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/gaceta">Gaceta</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/la-universidad">La universidad</a>
+                                <a class="d-md-inline-block text-decoration-none py-1 px-2" href="https://www.uagrm.edu.bo/acerca-del-sitio">Acerca del sitio</a>
+                            </div>
+            <div class="col-sm-3 my-auto">
+                Tel.: (591) (3) 3365533,<br>
+                (591) (3) 3365544<br>
+                Fax: (591) (3) 3342160<br>
+                NIT: 1028037020<br>
+                Santa Cruz, Bolivia
+            </div>
+        </div>
+    </div>
+</div>        </main>
+
+        
+                
+        
+        <script type="text/javascript">
+        function lazyloadCSS(source) {
+            var lazystyle = document.createElement('link');
+            lazystyle.rel = 'stylesheet';
+            lazystyle.href = source;
+            lazystyle.type = 'text/css';
+            var firststyle = document.getElementsByTagName('link')[0];
+            firststyle.parentNode.insertBefore(lazystyle, firststyle);
+        }
+        
+        lazyloadCSS("https://fonts.googleapis.com/css?family=Merriweather+Sans:300,300i,400");
+        lazyloadCSS("https://fonts.googleapis.com/css?family=Economica");
+//        lazyloadCSS("https://www.uagrm.edu.bo/css/app.min.css");
+        
+        
+        function lazyloadJS(source) {
+            var lazyjs = document.createElement('script');
+            lazyjs.href = source;
+            lazyjs.type = 'text/javascript';
+            var firstjs = document.getElementsByTagName('script')[0];
+            firstjs.parentNode.insertBefore(lazyjs, firstjs);
+        }
+//        lazyloadJS("https://www.uagrm.edu.bo/js/app.min.js");
+    </script>
+
+    <script>
+        new LazyLoad({
+            elements_selector: '.lazy',
+            threshold: 0,
+            callback_enter: function(e) {
+                let wrapper = `
+                    <div class="lazy-load-wrapper">
+                        <div class="lazy-load-spinner"></div>
+                    </div>
+                `;
+                $(e).css('display', 'none');
+                $(e).after(wrapper);
+            },
+            callback_set: function(e) {
+                $(e).next('.lazy-load-wrapper').fadeOut('slow', function() {
+                    $(e).fadeIn('fast');
+                    $(e).css('visibility', 'visible');
+                    $(e).css('display', 'block');
+                });
+            }
+        });
+    </script>
+
+    </body>
+</html>
